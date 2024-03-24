@@ -1,0 +1,1 @@
+"app.js" is a commonly used term in web development, especially when working with JavaScript applications. It is the main JavaScript file that contains all the code for an application or website. When you open a website or web application, the browser loads several files, including HTML, CSS, and JavaScript.
